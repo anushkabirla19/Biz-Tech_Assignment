@@ -1,0 +1,15 @@
+{
+  "filename": "hands_0000416.jpg",
+  "detections": [
+    {
+      "label": "bare_hand",
+      "confidence": 0.9821265339851379,
+      "bbox": [
+        0,
+        2,
+        1590,
+        1200
+      ]
+    }
+  ]
+}

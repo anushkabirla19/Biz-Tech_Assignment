@@ -1,0 +1,15 @@
+{
+  "filename": "gloves_0000202.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.9964619278907776,
+      "bbox": [
+        0,
+        37,
+        3456,
+        4608
+      ]
+    }
+  ]
+}
